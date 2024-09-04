@@ -5,12 +5,8 @@
 <hr />
 
 <div style="display: flex; gap: 1rem;">
-    <a href="https://github.com/horam-zarri/github-readme-stats">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=horam-zarri&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://github.com/horam-zarri/convoychat">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=horam-zarri&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
-    </a>
 </div>  
 
 #### Connect: 
